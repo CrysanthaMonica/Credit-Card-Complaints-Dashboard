@@ -1,8 +1,9 @@
 # Credit Card Complaints Dashboard Portfolio
+[Tableau Links](#https://public.tableau.com/app/profile/crysantha.monica.lim/viz/CREADITCARDCOMPLAINTSDASHBOARD/CreditCardComplaint)
 
 # Table of Contents
 - [Overview of Dataset](#overview-of-dataset)
-- Dataset Description](#dataset-description)
+- [Dataset Description](#dataset-description)
 - [Key Features of the Dashboard](#key-features-of-the-dashboard)
 - [Interactive Elements](#interactive-elements)
 - [Data Analysis Techniques](#data-analysis-techniques)
