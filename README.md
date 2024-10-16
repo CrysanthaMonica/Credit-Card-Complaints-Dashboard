@@ -1,5 +1,5 @@
 # Credit Card Complaints Dashboard Portfolio
-[https://public.tableau.com/app/profile/crysantha.monica.lim/viz/CREADITCARDCOMPLAINTSDASHBOARD/CreditCardComplaint](#Tableau Links)
+[Tableau Links](https://public.tableau.com/app/profile/crysantha.monica.lim/viz/CREADITCARDCOMPLAINTSDASHBOARD/CreditCardComplaint)
 
 # Table of Contents
 - [Overview of Dataset](#overview-of-dataset)
